@@ -13,4 +13,7 @@ Repeat this action in the terraform root folder to create EKS and VPC.
 
 ## Kubernetes
 
-In kubernetes 
+For deploying on EKS use the following command:
+```
+kubectl apply -f .
+```
